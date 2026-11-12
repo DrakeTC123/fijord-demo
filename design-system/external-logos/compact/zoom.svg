@@ -1,0 +1,23 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2021_626)">
+<rect width="12" height="12" rx="6" fill="#2196F3"/>
+<g clip-path="url(#clip1_2021_626)">
+<g clip-path="url(#clip2_2021_626)">
+<path d="M5.99988 12C9.31375 12 12 9.31352 12 5.99988C12 2.68625 9.31375 0 5.99988 0C2.68601 0 0 2.68625 0 5.99988C0 9.31352 2.68625 12 5.99988 12Z" fill="#2196F3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.52119 7.71471H7.48946V4.80488C7.48946 4.36649 7.13419 4.01123 6.6958 4.01123H2.72754V6.92105C2.72754 7.35945 3.0828 7.71471 3.52119 7.71471ZM8.01832 6.65674L9.60563 7.71471V4.01123L8.01856 5.06943L8.01832 6.65674Z" fill="white"/>
+</g>
+</g>
+</g>
+<rect x="0.0625" y="0.0625" width="11.875" height="11.875" rx="5.9375" stroke="black" stroke-opacity="0.05" stroke-width="0.125"/>
+<defs>
+<clipPath id="clip0_2021_626">
+<rect width="12" height="12" rx="6" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2021_626">
+<rect width="12" height="12" rx="6" fill="white"/>
+</clipPath>
+<clipPath id="clip2_2021_626">
+<rect width="12" height="12" rx="6" fill="white"/>
+</clipPath>
+</defs>
+</svg>
